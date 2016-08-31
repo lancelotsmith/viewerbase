@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'viewerbase',
+    name: 'lancelotsmith:viewerbase',
     summary: 'Shared components and functions for Meteor DICOM Viewers',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/viewerbase.git"
 });
 
 Package.onUse(function(api) {
